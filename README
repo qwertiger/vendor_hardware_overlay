@@ -3,3 +3,5 @@ Overlays for meizu 16Xs (m1926)
 Here are the list of changes:
 - Fixed powerProfile
 - SystemUI Fixed rotate suggestion not shown while using 2 button gesture navigation
+
+Tested with SuperiorOS Android 13 GSI - working
